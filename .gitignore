@@ -1,0 +1,7 @@
+*.csv
+.vscode/
+__pycache__/
+mlruns
+*.parquet
+*.csv
+teste.svg
